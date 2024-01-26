@@ -1,0 +1,21 @@
+declaraciones:
+-let
+-const
+-function*
+-async function*
+-class
+-export
+-import
+
+statements:
+while 
+for
+if
+else
+switch
+
+expresiones: 
+"toda linea de codigo que evalua en un valor, el ejemplo mas tipico
+es el de las asignaciones, por ejemplo: "x=5" ";
+
+
